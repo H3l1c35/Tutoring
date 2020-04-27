@@ -11,6 +11,7 @@
 //         });
 //     }
 // });
+alert("Wasup");
    $(".add").on("click", function() {
         var val = $(this).parent().children( "input").val();
         if(val !== '') {
