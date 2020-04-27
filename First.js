@@ -13,7 +13,7 @@
 
 
 $(".addB").on("click", function(){
-   alert("wasup");
+   alert("bob");
   )};
    /**
    $(".add").on("click", function() {
