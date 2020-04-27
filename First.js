@@ -1,6 +1,6 @@
 
 
-add.onclick=function(){
+button.onclick=function(){
   alert("Wasup");
  /** var val = this.parent().children( "input").val();
   if(val !== '') {
