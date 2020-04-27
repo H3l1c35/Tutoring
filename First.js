@@ -10,9 +10,10 @@
 //         });
 //     }
 // });
-function wasup(){
+$(".add").click(function(){
    alert("wasup");
-}
+  );
+   /**
    $(".add").on("click", function() {
         var val = $(this).parent().children( "input").val();
         if(val !== '') {
@@ -25,3 +26,4 @@ function wasup(){
             });
         }
     });
+*/
