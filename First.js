@@ -10,7 +10,7 @@
 //         });
 //     }
 // });
-
+alert("hi");
 
 $(".addB").on("click", function(){
    alert("bob");
