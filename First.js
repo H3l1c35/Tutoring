@@ -12,7 +12,7 @@
 // });
 
 
-$(".addB").click(function(){
+$(".addB").on.("click", function(){
    alert("wasup");
   )};
    /**
