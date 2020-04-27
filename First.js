@@ -10,7 +10,7 @@
 //         });
 //     }
 // });
-$(".add").click(function(){
+$(".addB").click(function(){
    alert("wasup");
   );
    /**
