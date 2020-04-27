@@ -10,6 +10,7 @@
 //         });
 //     }
 // });
+alert("wasup");
 $(".addB").click(function(){
    alert("wasup");
   );
