@@ -10,7 +10,7 @@
 //         });
 //     }
 // });
-alert("hii");
+alert("hhii");
  $("label").on("click", function(){
     alert("hi");
 });
