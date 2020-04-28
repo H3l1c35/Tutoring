@@ -1,4 +1,4 @@
-alert("HIIII");
+
 $('#contact-form').submit(function(e) {
   var name = document.getElementById('inputName');
    email = document.getElementById('inputEmial');
@@ -8,7 +8,7 @@ $('#contact-form').submit(function(e) {
     alertify.error('Please check your entries')
   } else {
     $.ajax({
-      url: "http://formspree.io/bi22k@mtholyoke.edu",
+      url: "http://formspree.io/obrie23e@mtholyoke.edu",
       method:"POST",
       data: $(this).serialize(),
       dataType: "json"
