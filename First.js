@@ -16,7 +16,7 @@ $(document).ready(function(){
 $("h1").on("click", function(){
     alert("hilk");
    });
-    $(".add).on("click", function() {
+   /** $(".add).on("click", function() {
        alert("hi")
         var val = $(this).parent().children( "input").val();
         if(val !== '') {
@@ -28,7 +28,7 @@ $("h1").on("click", function(){
                 $(this).parent().remove();
             });
         }
-    });
+    });*/
 });
 
   /**
