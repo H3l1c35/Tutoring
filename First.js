@@ -11,11 +11,12 @@
 //     }
 // });
 
-$(document).ready(function(){
-   alert("mary");
- 
-});
-
+//$(document).ready(function(){
+ //  alert("mary");
+//});
+$("h1").on("click", function(){
+    alert("hi");
+   });
   /**
    $("label").on("click", function(){
     alert("hi");
