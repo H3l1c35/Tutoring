@@ -27,9 +27,9 @@ $("h1").on("click", function(){
             $("input").val("");
             $(".rem").on("click", function() {
                 $(this).parent().remove();
-            });*/
-        }*/
-    })
+            });
+        }
+    })*/
 });
 
   /**
