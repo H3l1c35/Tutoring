@@ -1,4 +1,4 @@
-
+alert("wassssuppppp");
 $('#contact-form').submit(function(e) {
   var name = document.getElementById('inputName');
    email = document.getElementById('inputEmial');
