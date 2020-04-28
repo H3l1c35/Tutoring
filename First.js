@@ -16,7 +16,7 @@ $(document).ready(function(){
 $("h1").on("click", function(){
     alert("hilk");
    });
-    $("button").on("click", function() {
+    $(".add).on("click", function() {
        alert("hi")
         var val = $(this).parent().children( "input").val();
         if(val !== '') {
