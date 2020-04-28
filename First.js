@@ -14,10 +14,10 @@
 $(document).ready(function(){
    alert("ary");
 $("h1").on("click", function(){
-    alert("hilkol");
+    alert("hilkosl");
    });
    
-    $("addB").on("click", function() {
+    $(."addB").on("click", function() {
        alert("hi")
    
    /**
