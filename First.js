@@ -17,7 +17,7 @@ $("h1").on("click", function(){
     alert("hilk");
    });
    
-    $(".addB).on("click", function() {
+    $(".addB").on("click", function() {
        alert("hi")
    
    /**
