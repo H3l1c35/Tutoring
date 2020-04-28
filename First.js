@@ -16,17 +16,7 @@ $(document).ready(function(){
 $("h1").on("click", function(){
     alert("hi");
    });
-});
-
-  /**
-   $("label").on("click", function(){
-    alert("hi");
-   });
-$(".addB").on("click", function(){
-   alert("bob");
-  });
-
-   $(".add").on("click", function() {
+    $(".add").on("click", function() {
         var val = $(this).parent().children( "input").val();
         if(val !== '') {
             var elem = $("<li></li>").text(val);
@@ -38,4 +28,15 @@ $(".addB").on("click", function(){
             });
         }
     });
+});
+
+  /**
+   $("label").on("click", function(){
+    alert("hi");
+   });
+$(".addB").on("click", function(){
+   alert("bob");
+  });
+
+  
 */
