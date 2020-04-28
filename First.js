@@ -13,12 +13,13 @@
 
 $(document).ready function(){
    alert("mary");
-  $("label").on("click", function(){
-    alert("hi");
-   });
+ 
 });
 
   /**
+   $("label").on("click", function(){
+    alert("hi");
+   });
 $(".addB").on("click", function(){
    alert("bob");
   });
