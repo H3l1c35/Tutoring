@@ -11,11 +11,11 @@
 //     }
 // });
 alert("hi");
-
+/**
 $(".addB").on("click", function(){
    alert("bob");
   )};
-   /**
+   
    $(".add").on("click", function() {
         var val = $(this).parent().children( "input").val();
         if(val !== '') {
