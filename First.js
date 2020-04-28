@@ -17,7 +17,7 @@ $("h1").on("click", function(){
     alert("hilkosl");
    });
    
-    $(".addB").on("click", function() {
+    $(".section").on("click", "addB", function() {
        alert("hi")
    
    /**
