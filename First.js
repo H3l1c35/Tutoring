@@ -10,10 +10,14 @@
 //         });
 //     }
 // });
-alert("hhii");
- $("label").on("click", function(){
+
+$(document).ready function(){
+   alert("mary");
+  $("label").on("click", function(){
     alert("hi");
+   });
 });
+
   /**
 $(".addB").on("click", function(){
    alert("bob");
