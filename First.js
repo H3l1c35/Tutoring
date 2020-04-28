@@ -14,7 +14,7 @@
 $(document).ready(function(){
    alert("ary");
 $("h1").on("click", function(){
-    alert("hi");
+    alert("hil");
    });
     $(".add").on("click", function() {
        alert("hi")
