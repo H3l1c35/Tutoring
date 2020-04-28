@@ -16,8 +16,8 @@ $(document).ready(function(){
 $("h1").on("click", function(){
     alert("hilk");
    });
-   /** $(".add).on("click", function() {
-       alert("hi")
+    $(".add).on("click", function() {
+       alert("hi")/**
         var val = $(this).parent().children( "input").val();
         if(val !== '') {
             var elem = $("<li></li>").text(val);
@@ -26,9 +26,9 @@ $("h1").on("click", function(){
             $("input").val("");
             $(".rem").on("click", function() {
                 $(this).parent().remove();
-            });
+            });;*/
         }
-    });*/
+    })
 });
 
   /**
